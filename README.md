@@ -1,10 +1,10 @@
-# AI Hub Platform｜支持受控自进化的 AI 教育中台
+# AI Hub Platform｜AI中台、教学资源创作与受控自进化
 
 > **把做过的任务，变成下一次可复用的能力。**
 
-AI Hub 的技术内核是可复用技能及其执行体系。平台既能把知识检索、内容生成和来源标注组合为可接管的任务流程，也具备按需启用的技能自进化和评测驱动优化：从任务经验提出新技能，从样例评测提出提示改进，让能力建设有积累、有依据，也由人工决定是否接纳改进候选。
+AI Hub 面向教师、课程建设团队与教育 AI 开发者，围绕备课、课程生成、实验指导、题库评阅、课件媒体和科研辅助组织工作。知识库问答与知识图谱连接授权资料和教学内容；技能编排保留分步确认、人工编辑与来源复核。其差异化能力是按需启用的**受控技能自进化与评测驱动提示优化**，让任务经验形成可审核、可复用的能力候选。
 
-*AI education platform with human-reviewed skill evolution, evaluation-driven prompt optimization and reusable teaching workflows.*
+*AI education platform for course authoring, lesson planning, RAG knowledge-base Q&A and research assistance, with reusable Agent Skills and human-reviewed self-evolution.*
 
 [阅读公开版 PDF](project-overview.pdf) · [下载可编辑 PPT](project-overview.pptx)
 
@@ -34,6 +34,26 @@ AI Hub 的技术内核是可复用技能及其执行体系。平台既能把知�
 两条路径分别完成技能沉淀与提示优化。演进对象是**技能配置与提示模板**；提示优化由平台管理员触发，当前产物是供人工审阅的候选与差异。
 
 技能提炼与复杂度路由默认关闭，按组织授权启用；提示优化需另行启用相应功能，并由平台管理员触发。来源匹配供人工核查，不构成内容必然正确的保证。
+
+## 能完成哪些工作
+
+| 工作场景 | 展示的能力 | 相关技术与术语 |
+| --- | --- | --- |
+| 智能备课与课程建设 | 分步形成课程内容、实验指导和教学草稿，允许教师编辑与确认。 | Course authoring · Lesson planning · Lab instruction |
+| 知识库问答与课程知识关系 | 授权资料解析后参与检索与生成，支持来源回查；用知识点关系组织课程结构。 | RAG · Knowledge-base Q&A · Knowledge graph |
+| 题库建设与智能评阅辅助 | 生成题目、整理题库与提供评阅建议，由教师核对后采用。 | Question generation · Assessment assistance |
+| 课件与教学媒体 | 组织课件、图片、旁白等教学资产；生成、渲染与导出依相应服务配置。 | AI courseware · Teaching assets |
+| 科研助手与教学观察 | 按开通范围辅助资料整理、大纲和起草，围绕已接入教学记录提供回顾线索。 | Research assistance · Learning records |
+| 权限与资源管理 | 按角色管理功能使用、审核与可选能力启用，查看用量和预算。 | Access control · Usage governance |
+
+上述模块共同服务于教育 AI 工作流；受控自进化围绕技能候选与提示模板开展，扩展模块按环境和服务配置开放。
+
+## 按需求阅读公开资料
+
+- **先了解差异化机制**：PDF 第1–7页，受控自进化、技能编排、提示评测与模型分工。
+- **知识库与来源依据**：PDF 第8页，检索、来源与知识资源。
+- **备课、课程和科研辅助**：PDF 第9页，教学资源与拓展模块。
+- **教学记录与资源治理**：PDF 第10–11页，记录、权限与用量。
 
 ## 适合谁阅读
 
